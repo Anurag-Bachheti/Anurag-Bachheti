@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Anurag Bachheti</h1>
 <h3 align="center">A am a passionate frontend developer from India</h3>
 
